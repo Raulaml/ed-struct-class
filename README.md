@@ -1,0 +1,1 @@
+# ed-struct-class
